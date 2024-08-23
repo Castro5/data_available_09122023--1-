@@ -1,0 +1,82 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.212.0.0 - 95.212.127.255'
+
+% Abuse contact for '95.212.0.0 - 95.212.127.255' is 'info@aya.sy'
+
+inetnum:        95.212.0.0 - 95.212.127.255
+netname:        SY-AYA-ISP-20090205
+country:        SY
+org:            ORG-AISP2-RIPE
+admin-c:        YAL1-RIPE
+tech-c:         YAL1-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         yarub-mnt
+mnt-domains:    yarub-mnt
+mnt-routes:     yarub-mnt
+mnt-routes:     STEMNT-1
+remarks:        ANY Problems Like SPAM, Hacking etc..
+remarks:        ANY Problems Like SPAM, Hacking etc..
+remarks:        Send Email to ripe-aya@aya.sy
+created:        2015-06-29T13:15:32Z
+last-modified:  2018-03-15T15:23:20Z
+source:         RIPE # Filtered
+
+organisation:   ORG-AISP2-RIPE
+org-name:       AYA Internet Service Provider
+country:        SY
+org-type:       LIR
+address:        SAROUJA STREET - BAHSA ABEDEEN BUILDIN
+address:        00963
+address:        DAMASCUS
+address:        SYRIAN ARAB REPUBLIC
+phone:          +963933442550
+phone:          +963112324670
+fax-no:         +9631144670061
+mnt-ref:        yarub-mnt
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         yarub-mnt
+abuse-c:        AR17301-RIPE
+created:        2006-10-09T05:11:16Z
+last-modified:  2021-01-01T04:23:16Z
+source:         RIPE # Filtered
+
+person:         Yarub ALZONI
+address:        Suk Sarouja Street Abedeen Building 3thrd floor Bahsa - damascus - Syria
+phone:          +963 93 442550
+nic-hdl:        YAL1-RIPE
+created:        2006-11-06T18:40:41Z
+last-modified:  2011-08-23T10:49:39Z
+source:         RIPE # Filtered
+mnt-by:         YARUB-MNT
+
+% Information related to '95.212.64.0/18AS29256'
+
+route:          95.212.64.0/18
+origin:         AS29256
+mnt-by:         yarub-mnt
+created:        2021-05-09T08:07:05Z
+last-modified:  2021-05-09T08:07:05Z
+source:         RIPE
+
+% Information related to '95.212.64.0/18AS29386'
+
+route:          95.212.64.0/18
+origin:         AS29386
+mnt-by:         yarub-mnt
+created:        2021-05-09T08:07:59Z
+last-modified:  2021-05-09T08:07:59Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.106 (BUSA)
+
+

@@ -1,0 +1,27 @@
+   server -STP-
+  "total_received": $50,000.01, DLLS
+  "balance": $50,000.01, DLLS,
+  "unconfirmed_balance": 0,
+  "final_balance": $50,000.01, DLLS,
+    {
+      "block_hash": "00000000000008f68f1cdf442d177234f3e10b3215",
+      "block_height": 651450,
+      "block_index": 2108,
+      "hash": "04eac4e98bc74b3a7715224f5d1af0929810c08fd7fed2",
+      "addresses": [
+        "1De4K2MKb9BtejM35kpPfkebRcThesnEeV",
+      ],
+      "total": 2366066,
+      "fees": 146760,
+      "size": 18317,
+      "preference": "low",
+      "relayed_by": "134.208.92.188:8333",
+      "confirmed": "2021-02-02T13:21:21Z",
+      "received": "2021-02-02T13:13:10.925Z",
+      "ver": 2,
+      "lock_time": 651381,
+      "vout_sz": 555,
+      "opt_in_rbf": true,
+      "confirmations": 17410,
+      "confidence": 1,
+      "inputs": [
