@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "ms-iot.vscode-ros",
+        "savh.json5-kit",
+        "amazonwebservices.aws-toolkit-vscode",
+        "amazonwebservices.amazon-q-vscode",
+        "howardzuo.vscode-gitk",
+        "danielsanmedium.dscodegpt",
+        "redhat.vscode-yaml",
+        "vscjava.vscode-gradle",
+        "davidanson.vscode-markdownlint",
+        "ms-vscode.cpptools-extension-pack",
+        "xdebug.php-debug",
+        "devsense.phptools-vscode"
+    ]
+}

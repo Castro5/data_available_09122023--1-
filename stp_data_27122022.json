@@ -1,8 +1,9 @@
-   server -STP-
-  "total_received": $50,000.01, DLLS
-  "balance": $50,000.01, DLLS,
+{
+  "balance": 50000.01,
+  "currency": "DLLS",
   "unconfirmed_balance": 0,
-  "final_balance": $50,000.01, DLLS,
+  "final_balance": 50000.01,
+  "transactions": [
     {
       "block_hash": "00000000000008f68f1cdf442d177234f3e10b3215",
       "block_height": 651450,
@@ -42,22 +43,8 @@
         "1B7fZfr9synFVoDRwys3tixL7y1177Fegh",
         "12dF2euzY3VRwPSjBTjb7E1frzs7N1JWjc",
         "1Cmg9cysoUuniuov9mkv6Mf8mNmtk5qU8Z",
-        "15czCpgwJohVrod4wPJ1frTkRe3VJiY8q2",
-        "1LMMmow2GvPcU4YAjmhssxwSQRa8PQmdLw",
-        "19b1sckuiM2S4sHAjb1LyavjZMdpbPa96W",
-        "1GGpfh3nFTXraQqXYZJ9tKSzejUK37r1bk",
-      ],
-      "total": 2366066,
-      "fees": 146760,
-      "size": 18317,
-      "preference": "low",
-      "relayed_by": "134.208.92.188:8333",
-      "confirmed": "2021-02-02T13:21:21Z",
-      "received": "2021-02-02T13:13:10.925Z",
-      "ver": 2,
-      "lock_time": 651381,
-      "vout_sz": 555,
-      "opt_in_rbf": true,
-      "confirmations": 17410,
-      "confidence": 1,
-      "inputs": [
+        "15czCpgwJohVrod4wPJ1frTkRe3VJiY8q2"
+      ]
+    }
+  ]
+}

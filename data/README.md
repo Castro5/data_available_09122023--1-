@@ -55,3 +55,4 @@ Supported File Extensions
 .mp3: MP3 audio files. (Uses the tuneR package.)
 .ppm: PPM image files. (Uses the pixmap package.)
 .feather: Feather files for data frames in the Apache Arrow format (uses feather package)
+

@@ -1,4 +1,14 @@
-   server -STP-
+   Message: Se esperaba un objeto JSON, una matriz o un literal.
+Problematic code: Message
+Context:
+```json
+   Message: Propiedad esperada
+Problematic code: {
+Context:
+```json
+{
+   {
+ -STP-
   "total_received": $50,000.01, DLLS
   "balance": $50,000.01, DLLS,
   "unconfirmed_balance": 0,
