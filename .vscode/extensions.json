@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "coolspy3.hmmm-language-support",
-        "a-m.idjsonfun930470"
+        "a-m.idjsonfun930470",
+        "georgewfraser.vscode-javac"
     ]
 }
